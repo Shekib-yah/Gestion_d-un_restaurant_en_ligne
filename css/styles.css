@@ -1,0 +1,40 @@
+.container{
+    width: 65%;
+    color: black;
+}
+.button1{
+    background-color: coral;
+}
+.button1 a{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 6px 30px;
+    border: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    
+}
+.text{
+    text-align: center;
+}
+
+.loun{
+    background-color: coral;
+}
+.formulaire{
+    background-color: rgb(196, 82, 41);
+}
+.navbar{
+    padding: 0.1px 0.001%;
+    justify-content: space-between;
+    background-color: rgb(252, 227, 218);
+    position: sticky;
+    top: 5;
+}
+.categories{
+    background-color: rgb(255, 199, 179);
+}
+.food-menu{
+    background-color: rgb(255, 223, 211);
+}
